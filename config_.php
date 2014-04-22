@@ -20,11 +20,15 @@ echo "ttttttttttttttttttttttttttttt";
 define('baseURL', 'ais.dho.com.pe'.preURL);
 define('baseURL1', 'ais.dho.com.pe'.preURL);
 
+echo 'XXXXXXXXXXXXXX';
 ini_set("session.gc_maxlifetime","14500");
-session_start();
-require_once(RESOURCES.'conexion.php');
 
-$conexion = new conexion();
-echo 'zzzzzzzzzzzzzzz';
+
+
+
+
 $conexion->conectarDB();
+
+
+
 ?>
