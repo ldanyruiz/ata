@@ -1,0 +1,26 @@
+02-04-2014 16:35:39: Administrador DHO 	UPDATE usuario SET
+						rol_usuario='R', 
+						nom_usuario='Sunafil 2', 
+						appat_usuario='sunafil 2', 
+						apmat_usuario='sunafil 2', 
+						login_usuario='12345678', 
+						sex_usuario='', 
+						estciv_usuario='', 
+						fechnac_usuario='', 
+						email_usuario='correo@gmail.com',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=628; 
+02-04-2014 17:53:02: Administrador DHO 	UPDATE usuario SET
+						rol_usuario='R', 
+						nom_usuario='Sunafil 2', 
+						appat_usuario='sunafil 2', 
+						apmat_usuario='sunafil 2', 
+						login_usuario='12345678', 
+						sex_usuario='', 
+						estciv_usuario='', 
+						fechnac_usuario='', 
+						email_usuario='correo@gmail.com',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=628; 

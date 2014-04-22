@@ -1,0 +1,110 @@
+26-03-2014 10:33:23: probando nueva linea
+26-03-2014 10:33:32: probando nueva linea
+26-03-2014 10:34:08: 	UPDATE usuario SET
+						rol_usuario='U', 
+						nom_usuario='TEST', 
+						appat_usuario='TEST', 
+						apmat_usuario='TEST', 
+						login_usuario='11111111', 
+						sex_usuario='', 
+						estciv_usuario='S', 
+						fechnac_usuario='0000-00-00', 
+						email_usuario='',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=622; 
+26-03-2014 10:34:19: 	UPDATE usuario SET
+						rol_usuario='U', 
+						nom_usuario='TEST', 
+						appat_usuario='TEST', 
+						apmat_usuario='TEST', 
+						login_usuario='11111111', 
+						sex_usuario='', 
+						estciv_usuario='S', 
+						fechnac_usuario='0000-00-00', 
+						email_usuario='',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=622; 
+26-03-2014 10:36:09: 	UPDATE usuario SET
+						rol_usuario='U', 
+						nom_usuario='TEST', 
+						appat_usuario='TEST', 
+						apmat_usuario='TEST', 
+						login_usuario='11111111', 
+						sex_usuario='', 
+						estciv_usuario='S', 
+						fechnac_usuario='0000-00-00', 
+						email_usuario='',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=622; 
+26-03-2014 10:37:43: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [rol] => A
+            [nombre] => Administrador DHO
+            [paterno] => 
+            [materno] => 
+            [sexo] => 
+            [estadoCivil] => 
+            [nacimiento] => 
+            [email] => 
+            [estado] => A
+            [formulario] => Array
+                (
+                    [0] => Array
+                        (
+                            [nombre] => Campa&ntilde;as
+                            [link] => campana.php
+                            [icono] => icon_campaign.png
+                        )
+
+                    [1] => Array
+                        (
+                            [nombre] => Reportes
+                            [link] => reporte.php
+                            [icono] => icon_report.png
+                        )
+
+                    [2] => Array
+                        (
+                            [nombre] => Constructor de Reportes
+                            [link] => constructor.php
+                            [icono] => icon_constructor.png
+                        )
+
+                )
+
+        )
+
+    [1] => 	UPDATE usuario SET
+						rol_usuario='U', 
+						nom_usuario='TEST', 
+						appat_usuario='TEST', 
+						apmat_usuario='TEST', 
+						login_usuario='11111111', 
+						sex_usuario='', 
+						estciv_usuario='S', 
+						fechnac_usuario='0000-00-00', 
+						email_usuario='',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=622; 
+)
+
+26-03-2014 10:39:53: Administrador DHO 	UPDATE usuario SET
+						rol_usuario='U', 
+						nom_usuario='TEST', 
+						appat_usuario='TEST', 
+						apmat_usuario='TEST', 
+						login_usuario='11111111', 
+						sex_usuario='', 
+						estciv_usuario='S', 
+						fechnac_usuario='0000-00-00', 
+						email_usuario='',
+						usu_edita=2, 
+						fech_edita=NOW()
+						WHERE id_usuario=622; 

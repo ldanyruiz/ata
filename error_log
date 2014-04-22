@@ -1,0 +1,100 @@
+[05-Mar-2014 17:40:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/dhocompe/public_html/ais/resources/conexion.php on line 5
+[07-Mar-2014 07:41:48] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/campana.php on line 364
+[10-Mar-2014 18:27:45] PHP Fatal error:  Cannot use string offset as an array in /home/dhocompe/public_html/ais/cuestionario.php on line 1134
+[10-Mar-2014 18:28:01] PHP Fatal error:  Cannot use string offset as an array in /home/dhocompe/public_html/ais/cuestionario.php on line 1134
+[11-Mar-2014 11:25:31] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/campana.php on line 364
+[11-Mar-2014 15:22:42] PHP Fatal error:  Cannot use string offset as an array in /home/dhocompe/public_html/ais/cuestionario.php on line 1134
+[11-Mar-2014 17:39:58] PHP Fatal error:  Cannot use string offset as an array in /home/dhocompe/public_html/ais/cuestionario.php on line 1178
+[11-Mar-2014 17:55:58] PHP Fatal error:  Cannot use string offset as an array in /home/dhocompe/public_html/ais/cuestionario.php on line 1178
+[11-Mar-2014 18:03:06] PHP Fatal error:  Cannot use string offset as an array in /home/dhocompe/public_html/ais/cuestionario.php on line 1178
+[12-Mar-2014 10:00:19] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/cuestionario.php on line 138
+[13-Mar-2014 14:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:40:24] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:46:50] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:46:50] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[13-Mar-2014 14:46:50] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 298
+[13-Mar-2014 14:46:50] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 305
+[14-Mar-2014 13:40:54] PHP Fatal error:  Class 'reportes' not found in /home/dhocompe/public_html/ais/reporte.php on line 7
+[14-Mar-2014 13:40:59] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/dhocompe/public_html/ais/entities/reportes.php on line 258
+[17-Mar-2014 15:45:04] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:04] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 325
+[17-Mar-2014 15:45:07] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 332
+[19-Mar-2014 16:36:11] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 181
+[19-Mar-2014 16:36:11] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 181
+[21-Mar-2014 15:12:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhocompe/public_html/ais/entities/reportes.php:222) in /home/dhocompe/public_html/ais/exportar.php on line 545
+[21-Mar-2014 15:12:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhocompe/public_html/ais/entities/reportes.php:222) in /home/dhocompe/public_html/ais/exportar.php on line 546
+[21-Mar-2014 15:12:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dhocompe/public_html/ais/entities/reportes.php:222) in /home/dhocompe/public_html/ais/exportar.php on line 547
+[21-Mar-2014 21:03:42] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/cuestionario.php on line 147
+[21-Mar-2014 21:04:06] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/cuestionario.php on line 147
+[21-Mar-2014 21:04:12] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/cuestionario.php on line 147
+[24-Mar-2014 17:40:22] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/cuestionario.php on line 431
+[24-Mar-2014 17:40:55] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/cuestionario.php on line 431
+[26-Mar-2014 13:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:36] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:39] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:09:30] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:09:30] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[26-Mar-2014 13:09:30] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 371
+[26-Mar-2014 13:09:30] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 378
+[27-Mar-2014 11:57:14] PHP Fatal error:  Call to undefined method DateTime::createFromFormat() in /home/dhocompe/public_html/ais/resources/general.php on line 620
+[27-Mar-2014 11:57:55] PHP Parse error:  syntax error, unexpected $end in /home/dhocompe/public_html/ais/resources/general.php on line 200
+[27-Mar-2014 11:57:56] PHP Parse error:  syntax error, unexpected $end in /home/dhocompe/public_html/ais/resources/general.php on line 200
+[27-Mar-2014 11:58:32] PHP Fatal error:  Call to undefined method DateTime::createFromFormat() in /home/dhocompe/public_html/ais/resources/general.php on line 620
+[27-Mar-2014 12:00:57] PHP Fatal error:  Call to undefined function  date_create_from_format() in /home/dhocompe/public_html/ais/resources/general.php on line 620
+[27-Mar-2014 12:01:22] PHP Fatal error:  Call to undefined function  date_create_from_format() in /home/dhocompe/public_html/ais/resources/general.php on line 620
+[27-Mar-2014 15:39:45] PHP Warning:  require_once(resources/Logger.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dhocompe/public_html/ais/templates/header.php on line 5
+[27-Mar-2014 15:39:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'resources/Logger.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dhocompe/public_html/ais/templates/header.php on line 5
+[27-Mar-2014 15:39:49] PHP Warning:  require_once(resources/Logger.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dhocompe/public_html/ais/templates/header.php on line 5
+[27-Mar-2014 15:39:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'resources/Logger.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dhocompe/public_html/ais/templates/header.php on line 5
+[31-Mar-2014 09:21:36] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 91
+[31-Mar-2014 12:01:55] PHP Fatal error:  Class 'campana' not found in /home/dhocompe/public_html/ais/usuarios.php on line 11
+[31-Mar-2014 12:03:27] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 192
+[31-Mar-2014 12:03:27] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 192
+[31-Mar-2014 12:49:46] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 192
+[31-Mar-2014 12:49:46] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 192
+[31-Mar-2014 12:49:49] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 192
+[31-Mar-2014 12:49:49] PHP Warning:  Invalid argument supplied for foreach() in /home/dhocompe/public_html/ais/entities/reportes.php on line 192
+[31-Mar-2014 12:54:12] PHP Parse error:  syntax error, unexpected $end in /home/dhocompe/public_html/ais/reporte.php on line 137
+[31-Mar-2014 12:54:16] PHP Parse error:  syntax error, unexpected $end in /home/dhocompe/public_html/ais/reporte.php on line 137
+[31-Mar-2014 12:54:27] PHP Fatal error:  Class 'holding' not found in /home/dhocompe/public_html/ais/reporte.php on line 213
+[31-Mar-2014 12:54:47] PHP Fatal error:  Class 'holding' not found in /home/dhocompe/public_html/ais/reporte.php on line 213

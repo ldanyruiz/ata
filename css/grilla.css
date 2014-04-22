@@ -1,0 +1,96 @@
+/* CSS Document */
+
+h1#grilla{
+	font-size: 14px;
+	color: #666666;
+	font-weight: bold;
+}
+
+table#grilla{
+	max-height: 100%;
+	width: 90%;
+}
+
+table#grilla td{
+	padding: 5px;
+}
+
+table#grilla thead td{
+	background-color: #000;
+	color: #fff;
+	height: 20px;
+}
+
+table#grilla thead a{
+	color: #FF9900;
+}
+
+table#grilla thead a:hover{
+	text-decoration: underline;
+}
+
+table#grilla thead a.sel{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+table#grilla tbody tr.alt, table#grilla tbody td.alt{
+	background-color: #999;	
+}
+
+table#grilla tbody tr:hover{
+	background-color: #CC9933;
+}
+
+table#grilla tbody a{
+	color: #333333;
+	font-weight: bold;
+}
+
+table#grilla tbody a:hover{
+	text-decoration: underline;
+}
+
+table#grilla tr#none:hover{
+	background-color: #fff;
+}
+
+table#grilla.marginado td{
+	border: #000 1px solid;
+	padding: 8px;
+	font-size: 14px;
+}
+
+table#grilla.marginado td.alt{
+	font-weight: bold;
+}
+
+table#grilla.marginadoChico td{
+	border: thin #000 solid;
+}
+
+table#paginacion{
+	border-collapse: collapse;
+}
+
+table#paginacion td{
+	background-color: #000;
+	padding: 2px 5px;
+}
+
+table#paginacion label{
+	color: #fff;
+}
+
+table#paginacion a{
+	color: #fff;
+}
+
+table#paginacion a:hover{
+	text-decoration: underline;
+}
+
+table#paginacion td a.sel{
+	color: #FF9900;
+	text-decoration: underline;
+}

@@ -1,0 +1,531 @@
+@charset "utf-8";
+
+/* Reset CSS */
+@import url("reset.css");
+
+/* CSS Documento general de Estilos */
+html, body{
+	position: absolute;
+    min-height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+	background-color: #efefef;
+	overflow: auto;
+}
+
+body{
+	background-color: #efefef;
+}
+
+a{
+	text-decoration: none;
+	color: #FF6600;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+p{
+	text-indent: 0px;
+}
+
+input, select, textarea, button, label{	
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+td{
+	vertical-align: middle;
+	text-indent: 0;
+}
+
+h1{
+	color: #333;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+h2{
+	color: #555;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+button{
+	background-color: #FF9900;
+	padding: 5px 10px;
+	font-size: 14px;
+	border: none;
+}
+
+button:hover{
+	background-color: #FF6600;
+}
+
+button a{
+	color: #000;
+}
+
+button img{
+	height: 18px;
+}
+
+label{
+	font-weight: bold;
+}
+
+fieldset{
+	position: absolute;
+	min-width: 50%;
+	left: 30px;
+	padding: 10px;
+	border: 1px solid #FF9900;
+}
+
+legend{
+	padding-right: 30px;
+	color: #FF9900;
+	font-weight: bold;
+}
+
+strong{
+	font-weight: bold;
+}
+
+p#mensaje, p.mensaje{
+	color: #FF9900;
+	font-weight: bold;
+}
+
+p.mensaje{
+	color: #FF6600;
+	font-weight: bold;
+}
+
+.der{
+	text-align: right;
+}
+
+.izq{
+	text-align: left;
+}
+
+.cent{
+	text-align: center;
+}
+
+.neg{
+	font-weight: bold;
+}
+
+.term{
+	color: #336600;
+	font-weight: bold;
+}
+
+.pend{
+	color: #CC0000;
+	font-weight: bold;
+}
+
+.falt{
+	background-color: #FF9900;
+	color: #fff;
+	font-weight: bold;
+	border: #aaa 2px solid;
+}
+
+.up{
+	vertical-align: top;
+}
+
+.xlsString{
+	mso-number-format:"\@";
+}
+
+div#cabecera{
+	position: fixed;
+	height: 80px;
+	width: 90%;
+	left: 5%;
+	background-color: #FF9900;
+	background-image: url(../img/pat_cab.png);
+	background-repeat: repeat-x;
+	background-position: center;
+	color: #fff;
+	font-size: 30px;
+	line-height: 80px;
+	text-align: center;
+	z-index: 100;
+}
+
+div#cabecera img{
+	position: absolute;
+	left: 5px;
+}
+
+div#sesion{
+	position: fixed;
+	width: 90%;
+	left: 5%;
+	top: 80px;
+	background-color: #000;
+	color: #fff;
+	padding: 5px 0px;
+	text-align: right;
+	z-index: 100;
+}
+
+div#sesion img{
+	height: 15px;
+}
+
+div#sesion a{
+	color: #fff;
+}
+
+div#sesion div{
+	position: relative;
+	width: 50%;
+	height: 100%;
+	float: left;
+	clear: right;
+	text-indent: 30px;
+}
+
+div#login{
+	position: absolute;
+	width: 40%;
+	height: 50%;
+	left: 30%;
+	top: 30%;
+	background-color: #333;
+}
+
+div#login table{
+	position: absolute;
+	height: 90%;
+	width: 80%;
+	left: 10%;
+	top: 5%;
+}
+
+div#login h1{
+	text-align: center;
+	color: #fff;
+	font-size: 22px;
+}
+
+div#login label{
+	color: #fff;
+	font-size: 18px;
+}
+
+div#login input{
+	color: #333;
+	font-size: 18px;
+	width: 150px;
+	height: 24px;
+	text-align: center;
+}
+
+div#pie{
+	position: fixed;
+	height: 25px;
+	bottom: 0;
+	width: 90%;
+	left: 5%;
+	background-color: #fff;
+	padding: 5px 0px;
+	text-align: center;
+}
+
+div#pie div{
+	position: absolute;
+	bottom: 0;
+	width: 50%;
+	left: 25%;
+	background-color: #333;
+	color: #fff;
+	padding: 5px 0px;
+	text-align: center;
+}
+
+div#pie a{
+	color: #FF9900;
+}
+
+div#cuerpo{
+	position: absolute;
+	min-height: 95%;
+	width: 83%;
+	left: 5%;
+	background-color: #fff;
+	padding: 0 3.5%;
+}
+
+table#menu{
+	position: absolute;
+	width: 90%;
+	height: 300px;
+	left: 5%;
+}
+
+table#menu td{
+	vertical-align: middle;
+	text-align: center;
+}
+
+table#menu td img{
+	height: 150px;
+}
+
+table#menu td a{
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+table#cuestionario{
+	position: relative;
+	min-width: 50%;
+	left: 30px;
+}
+
+table#cuestionario td{
+	padding: 5px 10px;
+}
+
+table#cuestionario tr#titulo td{
+	font-weight: bold;
+	font-size: 14px;
+	background-color: #FF9900;
+}
+
+table#cuestionario tr#subtitulo td{
+	font-weight: bold;
+	font-size: 12px;
+	background-color: #FFCC66;
+}
+
+table#cuestionario tr#pregunta td{
+	font-weight: bold;
+	font-size: 13px;
+	background-color: #FFCC66;
+}
+
+img#loading{
+	position: fixed;
+	right: 8%;
+	top: 150px;
+	display: none;
+}
+
+ul#lista{
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+ul#lista li{
+	padding: 5px 0px;
+}
+
+td.pendi, td.proce, td.compl{
+	border-left: 1px #fff solid;
+	border-top: 1px #fff solid;
+}
+
+td.pendi{
+	background-color: #FF3333;
+}
+
+td.proce{
+	background-color: #FFCC33;
+}
+
+td.compl{
+	background-color: #999933;
+}
+
+table#individual{
+	position: relative;
+	border: none;
+	left: 30px;
+}
+
+table#individual td{
+	border-spacing: 0px;
+	border-collapse: collapse;
+	border: 1px #000 solid;
+	padding: 3px;
+}
+
+table#individual td#nada{
+	border: none;
+}
+
+table#individual tr#titulo td, table#individual tr#seccion td{
+	background-color: #FF9900;
+	width: 1100px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+table#individual tr#seccion td{
+	text-align: left;
+	font-size: 16px;
+}
+
+table#individual tr td#pregunta1{
+	background-color: #FFCC66;
+	text-transform: uppercase;
+	width: 400px;
+	border-top: none;
+	border-right: none;
+}
+
+table#individual tr td#pregunta2{
+	background-color: #FFFFCC;
+	text-transform: uppercase;
+	width: 400px;
+	text-align: right;
+	border-top: none;
+	border-right: none;
+}
+
+table#individual tr td#respuesta{
+	background-color: #fff;
+	width: 700px;
+	border-top: none;
+	text-align: right;
+}
+
+table#formulario td{
+	vertical-align: middle;
+	padding: 5px;
+}
+
+table#campana{	
+	border-right: 1px solid #FF9900;
+}
+
+table#campana td{
+	padding: 7px;
+	border: 1px solid #FF9900;
+	border-top: none;
+	border-right: none;
+}
+
+table#campana thead td, table#campana tbody td#resalt{
+	background-color: #FF9900;
+	font-weight: bold;
+	
+}
+
+a#help{
+	color: #fff;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a#help img{
+	height: 20px;
+	cursor: pointer;
+}
+
+a#help div{
+	position: fixed;
+	left: 0;
+	top: 35%;
+	max-height: 55%;
+	max-width: 400px;
+	padding: 7px;
+	background-color: #000;
+	z-index: 10;
+	display: none;
+	border: 3px solid #333;
+	border-left: none;
+	
+    -moz-border-radius: 0px 10px 10px 0px;
+    -webkit-border-radius: 0px 10px 10px 0px;
+    -khtml-border-radius: 0px 10px 10px 0px;
+    behavior:url(border-radius.htc);
+    border-radius: 0px 10px 10px 0px;
+			
+	opacity: 0.9;
+    -moz-opacity: 0.9;
+    -webkit-opacity: 0.9;
+    -khtml-opacity: 0.9; 
+    filter:alpha(opacity=90);
+}
+
+a#help:hover div{
+	display: block;
+}
+
+ul#pestana{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	margin-top: 0px;
+	margin-bottom: -4px;
+}
+
+ul#pestana li{
+	position: relative;
+	background-color: #FF9900;
+	color: #fff;
+	padding: 10px;
+	z-index: 10;
+	font-size: 16px;
+	margin-bottom: 8px;
+	margin-left: -8px;
+	text-align: center;
+	
+    -moz-border-radius: 0px 20px 20px 0px;
+    -webkit-border-radius: 0px 20px 20px 0px;
+    -khtml-border-radius: 0px 20px 20px 0px;
+    behavior:url(border-radius.htc);
+    border-radius: 0px 20px 20px 0px;
+}
+
+ul#pestana li a{
+	color: #fff;
+}
+
+ul#pestana li:hover{
+	background-color: #FF6600;
+	text-decoration: none;
+}
+
+ul#pestana li.sel{
+	background-color: #000;
+	text-decoration: none;
+}
+
+ul#pestana li div{
+	margin-top: 10px;
+	padding: 5px;
+	background-color: #666666;
+	text-align: center;
+	
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -khtml-border-radius: 10px 10px 10px 10px;
+    behavior:url(border-radius.htc);
+    border-radius: 10px 10px 10px 10px;
+}
+
+ul#pestana li input[type=text]{
+	display: none;
+}
+
+table#lista td{
+	border: none;
+}

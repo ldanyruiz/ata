@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130100853600000000" />
+<file name="CachedObjectStorageFactory.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753000000000" />
+<file name="Calculation.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="Cell.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="Chart.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="Comment.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="DocumentProperties.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="DocumentSecurity.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="Exception.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="HashTable.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="IComparable.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="IOFactory.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032753600000000" />
+<file name="NamedRange.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032754800000000" />
+<file name="ReferenceHelper.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032755400000000" />
+<file name="RichText.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032755400000000" />
+<file name="Settings.php" server="dho.com.pe/www/ata/" local="129944891080000000" remote="130032755400000000" />
+<file name="Style.php" server="dho.com.pe/www/ata/" local="129944891100000000" remote="130032757800000000" />
+<file name="Worksheet.php" server="dho.com.pe/www/ata/" local="129944891100000000" remote="130032758400000000" />
+<file name="WorksheetIterator.php" server="dho.com.pe/www/ata/" local="129944891100000000" remote="130032758400000000" />
+</dwsync>
