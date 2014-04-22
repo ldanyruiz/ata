@@ -13,6 +13,9 @@ define('sizeImg3', ' height="36" width="36" ');
 define('sizeImg4', ' height="100" width="100" ');
 //define('preURL', '/ais/');
 define('preURL', '/////');
+
+echo "ttttttttttttttttttttttttttttt";
+
 //define('baseURL', 'localhost'.preURL);
 define('baseURL', 'ais.dho.com.pe'.preURL);
 define('baseURL1', 'ais.dho.com.pe'.preURL);
