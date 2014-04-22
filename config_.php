@@ -11,24 +11,15 @@ define('sizeImg', ' height="24" width="24" ');
 define('sizeImg2', ' height="72" width="72" ');
 define('sizeImg3', ' height="36" width="36" ');
 define('sizeImg4', ' height="100" width="100" ');
-//define('preURL', '/ais/');
-define('preURL', '/////');
+define('preURL', '/ais/');
 
-echo "ttttttttttttttttttttttttttttt";
-
-//define('baseURL', 'localhost'.preURL);
 define('baseURL', 'ais.dho.com.pe'.preURL);
-define('baseURL1', 'ais.dho.com.pe'.preURL);
 
-echo 'XXXXXXXXXXXXXX';
 ini_set("session.gc_maxlifetime","14500");
+session_start();
+require_once(RESOURCES.'conexion.php');
 
-
-
-
-
+$conexion = new conexion();
 $conexion->conectarDB();
-
-
 
 ?>
